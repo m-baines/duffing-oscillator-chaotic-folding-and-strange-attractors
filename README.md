@@ -16,8 +16,7 @@ sensitivity to initial conditions.
 
 This investigation was a part of my final assessment for my MPhys, master's level Non-Linear Physics module at the Univeristy of Surrey and alongside the content learnt there
 each program was adapted for the specifics of this investigation, and underlying theory gained from the excellent textbooks:
-"Dynamical Systems with Applications using Python" by Stephen Lynch (2018)
-"Nonlinear Dynamics and Chaos" by Steven H. Strogatz (2016)
+"Dynamical Systems with Applications using Python" by Stephen Lynch (2018) and "Nonlinear Dynamics and Chaos" by Steven H. Strogatz (2016)
 
 Program 1: phasespace.py
 
